@@ -1,0 +1,12 @@
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Release\BuildingTemplate.exe.config
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Release\BuildingTemplate.exe
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Release\BuildingTemplate.pdb
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Release\Bytescout.Spreadsheet.dll
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Release\Bytescout.Spreadsheet.xml
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.Form1.resources
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.Properties.Resources.resources
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.csproj.GenerateResource.cache
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.csproj.CoreCompileInputs.cache
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.csproj.CopyComplete
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.exe
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Release\BuildingTemplate.pdb

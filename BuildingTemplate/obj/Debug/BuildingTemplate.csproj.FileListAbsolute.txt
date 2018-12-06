@@ -1,0 +1,13 @@
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Debug\BuildingTemplate.exe.config
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Debug\BuildingTemplate.exe
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Debug\BuildingTemplate.pdb
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.Form1.resources
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.Properties.Resources.resources
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.csproj.GenerateResource.cache
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.csproj.CoreCompileInputs.cache
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.exe
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.pdb
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Debug\Bytescout.Spreadsheet.dll
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\bin\Debug\Bytescout.Spreadsheet.xml
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.csproj.CopyComplete
+D:\Project 10.21~11.21\Morocow\BuildingTemplate\BuildingTemplate\obj\Debug\BuildingTemplate.csprojAssemblyReference.cache
